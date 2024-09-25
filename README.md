@@ -1,5 +1,5 @@
 
-<img src="https://cdn.jsdelivr.net/gh/upspede/OldManVPN@main/images/logo.png" alt="logo" width="130" height="130" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/upspede/OldManVPN@main/images/logo.png" alt="logo" width="100" height="100" align="left" />
 
 <h1>老头加速器 源自2016年的老牌VPN厂商 - 最新网址</h1>
 
