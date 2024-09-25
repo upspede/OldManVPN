@@ -1,2 +1,2 @@
 # OldManVPN
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![老头VPN发布页](https://github-readme-stats.vercel.app/api?username=upspede&theme=transparent&show_icons=true)
