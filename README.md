@@ -29,4 +29,7 @@
 - 支持企业级定制，可根据需求量身定制专属解决方案！
 
 ## 最新网址
-<a href="https://letusgolang.com/#/login?code=AyrcC9SM"><img src="https://raw.githubusercontent.com/upspede/OldManVPN/refs/heads/main/images/getin.gif?sanitize=true" width="500px"></a>
+
+> 最新更新时间 2024.09.25
+
+<a href="https://letusgolang.com/#/login?code=AyrcC9SM" target="_blank"><img src="https://raw.githubusercontent.com/upspede/OldManVPN/refs/heads/main/images/getin.gif?sanitize=true" width="500px"></a>
