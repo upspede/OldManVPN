@@ -1,2 +1,2 @@
 # OldManVPN
-老头加速器 最新 官网地址 发布页
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
