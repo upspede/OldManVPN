@@ -36,5 +36,5 @@
 
 ## 页面预览
 
-<img src="https://raw.githubusercontent.com/upspede/OldManVPN/refs/heads/main/images/websh.png?sanitize=true">
+<img src="https://raw.githubusercontent.com/upspede/OldManVPN/refs/heads/main/images/WebSh.png?sanitize=true">
 
