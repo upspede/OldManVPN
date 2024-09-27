@@ -32,7 +32,7 @@
 
 > 最新更新时间 2024.09.27
 
-<a href="https://letusgolang.com/#/login?code=AyrcC9SM" target="_blank"><img src="https://raw.githubusercontent.com/upspede/OldManVPN/refs/heads/main/images/getin.gif?sanitize=true" width="500px"></a>
+<a href="https://letusgolang.com/register?code=AyrcC9SM" target="_blank"><img src="https://raw.githubusercontent.com/upspede/OldManVPN/refs/heads/main/images/getin.gif?sanitize=true" width="500px"></a>
 
 ## 页面预览
 
