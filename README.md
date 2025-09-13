@@ -1,7 +1,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/upspede/OldManVPN@main/images/logo.png" alt="logo" width="100" height="100" align="left" />
 
-<h1>老头加速器 源自2016年的老牌VPN厂商 - 最新网址</h1> 
+<h1>OldManVPN(老头VPN)加速器 源自2016年的老牌VPN厂商 - 最新网址</h1> 
 
 > Veteran VPN vendor originating from 2016 - OldManVPN web site release page
 
